@@ -25,8 +25,7 @@
 ## 😄 Pronouns:
 - He/Him
 
-  
-##⚡ Fun facts about me: 
+## ⚡ Fun facts about me: 
 - I'm a huge Disney fan and aspire to work as an Imagineer someday! 🏰
 - In my free time, you will find me snowboarding, skateboarding, surfing, or shooting photos
 - I play guitar, piano, drums, and ukulele!
