@@ -6,9 +6,11 @@
 - UX/UI Design
 - Software Engineering
 
-## 🌱 I’m currently learning
+## 🧑🏼‍💻 Experienced In
 - Advanced JavaScript
 - React
+- Node.js
+- Python
 - SQL & Database Management
 - Data Visualization with Tableau
 
