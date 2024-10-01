@@ -20,7 +20,7 @@
 ## 📫 How to reach me
 - LinkedIn: [Nicholas W. Smith](https://www.linkedin.com/in/nwsmith022)
 - Email: nwsmith.dev@gmail.com
-- Photography Portfolio 📷: nwsmithphoto.pb.online
+- Photography Portfolio 📷: [N.W.Smith Photography](https://nwsmithphoto.pb.online)
 
 ## 😄 Pronouns:
 - He/Him
