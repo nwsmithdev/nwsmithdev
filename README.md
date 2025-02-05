@@ -11,6 +11,7 @@
 - React
 - Node.js
 - Python
+- Java
 - SQL & Database Management
 - Data Visualization with Tableau
 
