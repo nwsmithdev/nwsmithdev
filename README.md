@@ -9,6 +9,7 @@
 ## 🧑🏼‍💻 Experienced In
 - Advanced JavaScript
 - React
+- Vue
 - Node.js
 - Python
 - Java
