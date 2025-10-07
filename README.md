@@ -7,7 +7,7 @@
 - Software Engineering
 
 ## 🧑🏼‍💻 Experienced In
-- Advanced JavaScript
+- JavaScript
 - React
 - Vue
 - Node.js
