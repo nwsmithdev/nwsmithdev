@@ -2,9 +2,8 @@
 
 ## 👀 I’m interested in 
 - Full Stack Development
-- Game Development
+- Web Development
 - UX/UI Design
-- Software Engineering
 
 ## 🧑🏼‍💻 Experienced In
 - JavaScript
@@ -14,7 +13,7 @@
 - Python
 - Java
 - SQL & Database Management
-- Data Visualization with Tableau
+- REST APIs
 
 ## 💞️ I’m looking to collaborate on 
 - Web applications that focus on making a positive impact
