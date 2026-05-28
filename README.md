@@ -23,15 +23,13 @@
 ## 📫 How to reach me
 - LinkedIn: [Nicholas W. Smith](https://www.linkedin.com/in/nwsmith022)
 - Email: nwsmith.dev@gmail.com
-- Photography Portfolio 📷: [N.W.Smith Photography](https://nwsmithphoto.pb.online)
 
 ## 😄 Pronouns:
 - He/Him
 
 ## ⚡ Fun facts about me: 
-- I'm a huge Disney fan and aspire to work as an Imagineer someday! 🏰
-- In my free time, you will find me snowboarding, skateboarding, surfing, or shooting photos
-- I play guitar, piano, drums, and ukulele!
+- I'm a huge Disney fan and aspire to work as an Imagineer someday. 🏰
+- In my free time, you will find me snowboarding, surfing, outside enjoying nature, or playing my guitar. 
 
 <!---
 nwsmithdev/nwsmithdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
