@@ -1,11 +1,11 @@
-# 👋 Hi, I’m [Nicholas W. Smith](https://github.com/nwsmithdev)
+# Hi, I’m [Nicholas W. Smith](https://github.com/nwsmithdev)
 
-## 👀 I’m interested in 
+## I’m interested in 
 - Full Stack Development
 - Web Development
 - UX/UI Design
 
-## 🧑🏼‍💻 Experienced In
+## Experienced In
 - JavaScript
 - React
 - Vue
@@ -15,19 +15,15 @@
 - SQL & Database Management
 - REST APIs
 
-## 💞️ I’m looking to collaborate on 
+## I’m looking to work on 
 - Web applications that focus on making a positive impact
-- Game development projects
 - Open-source initiatives in programming and tech
 
-## 📫 How to reach me
+## How to reach me
 - LinkedIn: [Nicholas W. Smith](https://www.linkedin.com/in/nwsmith022)
 - Email: nwsmith.dev@gmail.com
 
-## 😄 Pronouns:
-- He/Him
-
-## ⚡ Fun facts about me: 
+## Fun facts about me: 
 - I'm a huge Disney fan and aspire to work as an Imagineer someday. 🏰
 - In my free time, you will find me snowboarding, surfing, outside enjoying nature, or playing my guitar. 
 
