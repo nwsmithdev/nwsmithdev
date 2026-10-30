@@ -15,17 +15,9 @@
 - SQL & Database Management
 - REST APIs
 
-## I’m looking to work on 
-- Web applications that focus on making a positive impact
-- Open-source initiatives in programming and tech
-
 ## How to reach me
 - LinkedIn: [Nicholas W. Smith](https://www.linkedin.com/in/nwsmith022)
 - Email: nwsmith.dev@gmail.com
-
-## Fun facts about me: 
-- I'm a huge Disney fan and aspire to work as an Imagineer someday. 🏰
-- In my free time, you will find me snowboarding, surfing, outside enjoying nature, or playing my guitar. 
 
 <!---
 nwsmithdev/nwsmithdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
