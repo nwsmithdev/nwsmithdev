@@ -10,6 +10,7 @@
 - React
 - Vue
 - Node.js
+- Go
 - Python
 - Java
 - SQL & Database Management
