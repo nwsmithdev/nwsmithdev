@@ -8,9 +8,9 @@
 
 ## Technologies
 
-**Languages:** JavaScript, Go, Python, SQL, HTML, CSS
-**Frameworks/Libraries:** React, Redux, Vue, Node.js
-**Integrations & Technical Operations:** REST APIs, SFTP, DNS and domain configuration, email authentication and deliverability troubleshooting, partner integrations, solution design
+- **Languages:** JavaScript, Go, Python, SQL, HTML, CSS
+- **Frameworks/Libraries:** React, Redux, Vue, Node.js
+- **Integrations & Technical Operations:** REST APIs, SFTP, DNS and domain configuration, email authentication and deliverability troubleshooting, partner integrations, solution design
 
 ## How to reach me
 - LinkedIn: [Nicholas W. Smith](https://www.linkedin.com/in/nwsmith022)
