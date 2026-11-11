@@ -1,20 +1,16 @@
 # Hi, I’m [Nicholas W. Smith](https://github.com/nwsmithdev)
 
-## I’m interested in 
-- Full Stack Development
-- Web Development
+## Areas of Interest
+
+- Full-stack and web application development
+- Front-end engineering
 - UX/UI Design
 
-## Experienced In
-- JavaScript
-- React
-- Vue
-- Node.js
-- Go
-- Python
-- Java
-- SQL & Database Management
-- REST APIs
+## Technologies
+
+**Languages:** JavaScript, Go, Python, SQL, HTML, CSS
+**Frameworks/Libraries:** React, Redux, Vue, Node.js
+**Integrations & Technical Operations:** REST APIs, SFTP, DNS and domain configuration, email authentication and deliverability troubleshooting, partner integrations, solution design
 
 ## How to reach me
 - LinkedIn: [Nicholas W. Smith](https://www.linkedin.com/in/nwsmith022)
